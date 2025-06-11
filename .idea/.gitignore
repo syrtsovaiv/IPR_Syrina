@@ -1,0 +1,31 @@
+Файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+Папки сборки / кэша
+out/
+build/
+target/
+
+Логи и временные файлы
+*.log
+*.tmp
+*.swp
+*.bak
+
+Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+Файлы Maven (если используется)
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+Файлы зависимостей (node_modules, venv и т. д.)
+node_modules/
+venv/
+.env
