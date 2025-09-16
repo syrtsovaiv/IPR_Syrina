@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-public class PetStoreApiTests { //УБРАТЬ ПРОБЕЛЫ
+public class PetStoreApiTests {
 
     @BeforeEach
     public void setup() {
